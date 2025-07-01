@@ -59,5 +59,6 @@ CREATE TABLE students (
 Open a terminal or Git Bash in the project folder and run:
 
 ```bash
-javac -cp ".;mysql-connector-j-9.3.0.jar;flatlaf-3.4.jar;jfreechart-1.5.3.jar;jcommon-1.0.24.jar" *.java ''''
+java -cp ".;mysql-connector-j-9.3.0.jar;flatlaf-3.4.jar;jfreechart-1.5.3.jar;jcommon-1.0.24.jar" StudentGUI
+
 
